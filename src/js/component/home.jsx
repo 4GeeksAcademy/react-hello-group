@@ -1,4 +1,5 @@
 import React from "react";
+import { Card } from "./Card";
 
 //include images into your bundle
 
@@ -7,7 +8,7 @@ import React from "react";
 const Home = () => {
 	return (
 		<div className="text-center">
-			
+			<Card />
 		</div>
 	);
 };
