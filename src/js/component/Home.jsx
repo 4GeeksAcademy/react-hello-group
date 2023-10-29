@@ -5,10 +5,6 @@ import { Card } from "./Card";
 import { Jumbo } from "./Jumbo";
 
 
-//include images into your bundle
-
-
-//create your first component
 const Home = () => {
 	return (
 		<div className="text-center">
