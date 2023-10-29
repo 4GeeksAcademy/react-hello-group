@@ -1,4 +1,5 @@
 import React from "react";
+import { Navbar } from "./Navbar";
 
 //include images into your bundle
 
@@ -7,6 +8,7 @@ import React from "react";
 const Home = () => {
 	return (
 		<div className="text-center">
+      <Navbar />
 			
 		</div>
 	);
