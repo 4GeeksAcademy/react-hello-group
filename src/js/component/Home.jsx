@@ -12,8 +12,8 @@ import { Jumbo } from "./Jumbo";
 const Home = () => {
 	return (
 		<div className="text-center">
-      <Navbar />
-      <Jumbo />
+			<Navbar />
+			<Jumbo />
 			<Card />
 			<Footer />
 		</div>
