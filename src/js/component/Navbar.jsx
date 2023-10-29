@@ -3,9 +3,6 @@ import React from "react";
 export const Navbar =  () => {
 
 return(
-
-  <>
-
 <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark shadow-sm">
   <div class="container">
 
@@ -23,8 +20,5 @@ return(
     </div>
   </div>
 </nav>
-
-
-  </>
 
 )}
